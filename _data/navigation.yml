@@ -11,8 +11,8 @@ main:
   - title: "Research & Awards"
     url: /research_awards/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Presentation"
+    url: /talks/
 
   - title: "Teaching"
     url: /teach/    
