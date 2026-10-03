@@ -18,7 +18,7 @@ permalink: /research_awards/
 
 ## Preprints
 
-- **Zhen Qi** and Yuqian Zhang (2026). [Quadruply robust methods for causal mediation analysis](https://arxiv.org/abs/2601.22592). arXiv preprint arXiv:2601.22592.
+- **Zhen Qi** and Yuqian Zhang (2026). [Quadruply robust methods for causal mediation analysis](https://arxiv.org/abs/2601.22592). arXiv preprint arXiv:2601.22592. **Major revision** at *Journal of the American Statistical Association* (JASA).
 - **Zhen Qi**, Facheng Yu and Yuqian Zhang (2026). [Semi-supervised inference using unlabeled summary statistics](https://arxiv.org/abs/2411.15691). arXiv preprint arXiv:2411.15691.
 
 ## Awards & Honors
