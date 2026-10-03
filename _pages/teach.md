@@ -14,4 +14,4 @@ author_profile: true
 
 - **Probability Theory and Mathematical Statistics C**
   , *Undergraduate level*  
-  , Fall 2025.
+  , Fall 2025, Fall 2026.
