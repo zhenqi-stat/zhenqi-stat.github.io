@@ -96,10 +96,19 @@
   ],
   "presentations": [
     {
+      "name": "10th National Statistics Doctoral Academic Forum",
+      "event": "Presentation",
+      "date": "2026",
+      "dateLabel": "2026",
+      "location": "Guangzhou, China",
+      "description": ""
+    },
+    {
       "name": "The 4th Joint Conference on Statistics and Data Science & IMS-China",
       "event": "Presentation",
       "date": "2026-07",
-      "location": "",
+      "dateLabel": "July 2026",
+      "location": "Guiyang, Guizhou, China",
       "description": ""
     }
   ],

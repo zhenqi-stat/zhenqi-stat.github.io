@@ -6,5 +6,7 @@ author_profile: true
 ---
 
 <ul>
-  <li>The 4th Joint Conference on Statistics and Data Science &amp; IMS-China, July 2026</li>
+  {% for presentation in site.data.cv.presentations %}
+    <li>{{ presentation.name | escape }}, {{ presentation.location | escape }}, {{ presentation.dateLabel | default: presentation.date | escape }}.</li>
+  {% endfor %}
 </ul>
